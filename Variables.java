@@ -73,5 +73,7 @@ public class Variables {
 
         // -> Reference variables: stores the address in the memory location. Points to another memory location where the actual data is. e.g. String
         String favLanguage = "Java";
+
+
     }
 }
