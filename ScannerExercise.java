@@ -64,6 +64,8 @@ public class ScannerExercise {
         System.out.println("Final Balance: Ksh. " + finalBalance);
 
         System.out.println("==============================================");
+
+        sc.close();
     }
 
 }
