@@ -6,7 +6,7 @@ public class JavaPrimitives {
      * Java programming languages provides eight primitive data types namely:
      *
      * i. boolean (for logical)
-     * ii.char (for textual)
+     * ii. char (for textual)
      * iii. byte
      * iv. short
      * v. int
